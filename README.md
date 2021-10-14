@@ -5,7 +5,7 @@
 
 Good day!
 
-I'm Blockchain Fullstack developer. 🌱  
+I'm a Blockchain Fullstack developer. 🌱  
 I'm especially interested in Blockchain Technology and Frontend developments.
 
 I love exercising and communicating!
