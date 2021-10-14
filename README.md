@@ -33,7 +33,7 @@ I love exercising and communicating!
    &nbsp;<img src="https://img.shields.io/badge/Java%20-007396?&style=for-the-badge&logo=java&logoColor=white"/>&nbsp;
    &nbsp;<img src="https://img.shields.io/badge/Solidity%20-363636?&style=for-the-badge&logo=Solidity&logoColor=white"/>&nbsp;
    &nbsp;<img src="https://img.shields.io/badge/Html5%20-E34F26?&style=for-the-badge&logo=Html5&logoColor=white"/>&nbsp;
-   &nbsp;<img src="https://img.shields.io/badge/css3%20- 1572B6?&style=for-the-badge&logo=css3&logoColor=white"/>&nbsp;
+   &nbsp;<img src="https://img.shields.io/badge/css3%20-1572B6?&style=for-the-badge&logo=css3&logoColor=white"/>&nbsp;
 </p>
 
 <h4 align="center"><em>Frontend</em></h4>
