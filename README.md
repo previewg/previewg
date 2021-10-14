@@ -15,8 +15,6 @@ I love exercising and communicating!
 ### 💫 Experience
 - **fninnoedu** - 블록체인 개발자 양성 과정 *(2020.05 - 2020.11)*
   - 최우수 학생상 👨🏻‍🎓 ‍🥇, 최우수 프로젝트상 수상 ‍‍🥇  
-<br>
-  
 - **Multicampus** - 빅데이터를 활용한 파이썬 프로그래밍 *(2018.12 - 2019.02)*
 
 
