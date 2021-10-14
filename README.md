@@ -1,13 +1,28 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&customColorList=0,2,2,2,2,1&text=Fe.geni's%20Github⭐️&textBg=true&animation=fadeIn&fontSize=20)
 
-<h2 align="center">
-I'm CheolJin Heo.<br>
-Blockchain Fullstack developer. 🌱  
-<br>
-<br>
-</h2>
+### Hi, 👋🏻 I'm CheolJin Heo!
 <br>
 
+Good day!
+
+I'm Blockchain Fullstack developer. 🌱  
+I'm especially interested in Blockchain Technology and Frontend developments.
+
+I love exercising and communicating!
+
+<br/>
+
+### 💫 Experience
+- **fninnoedu** - 블록체인 개발자 양성 과정 *(2020.05 - 2020.11)*
+  - 최우수 학생상 👨🏻‍🎓 ‍🥇, 최우수 프로젝트상 수상 ‍‍🥇  
+<br>
+- **Multicampus** - 빅데이터를 활용한 파이썬 프로그래밍 *(2018.12 - 2019.02)*
+
+
+<br><br><br>
+
+---
+<br>
 <h3 align="center">💻 Tech Stack 💻</h3>
 
 <br>
@@ -60,6 +75,19 @@ Blockchain Fullstack developer. 🌱
 <p align="center">
    &nbsp;<img src="https://img.shields.io/badge/Git%20-F05032?&style=for-the-badge&logo=git&logoColor=white"/>&nbsp;
    &nbsp;<img src="https://img.shields.io/badge/Slack%20-4A154B?&style=for-the-badge&logo=slack&logoColor=white"/>&nbsp;
+</p>
+
+<br><br>
+
+---
+
+<br><br>
+<h3 align="center">🎄 This is Me! 🎄 </h3>
+<br>
+
+<p align="center">
+    &nbsp;<a href="https://previewg.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google&logoColor=white"/></a>&nbsp;
+    &nbsp;<a href="mailto:preview@ajou.ac.kr" target="_blank"><img src="https://img.shields.io/badge/gmail-E4405F?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=footer&text=%20&fontSize=90)
